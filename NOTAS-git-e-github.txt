@@ -4,4 +4,8 @@ git status
 git config --local user.name "Fernando Rolim Silva"
 git config --local user.email "computadores@terceiropavimento.com.br"
 
+git add .    (adiciona todos os arquivos da pasta corrente)
+git status
+
+git commit -m "Curso de Git e GitHub, iniciando"
 
