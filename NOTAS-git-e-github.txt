@@ -1,0 +1,7 @@
+git init
+git status
+
+git config --local user.name "Fernando Rolim Silva"
+git config --local user.email "computadores@terceiropavimento.com.br"
+
+
